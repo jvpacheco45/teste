@@ -33,7 +33,7 @@ Telefone:(17)98222-7108
 <tr>
 <td>Pacote Office</td>
 </tr>
-<a href="url">https://www.linkedin.com/in/jo%C3%A3o-vitor-pacheco-da-silva-a5966b207/</a>
+<a href="url">https://www.linkedin.com/in/joâo-vitor-pacheco-da-silva-a5966b207/</a>
 </table><br>
 <table border="1">
 <tr>
@@ -49,6 +49,7 @@ Telefone:(17)98222-7108
 Objetivos</td>
 </tr>
 <tr>
+<a href="url">https://www.linkedin.com/in/joâo-vitor-pacheco-da-silva-a5966b207/</a>  
 <td>Busco auxiliar a empresa o máximo possível nas funções atribuídas e consequentemente desenvolver experiência profissional.</td>
 </tr>
 </table>
