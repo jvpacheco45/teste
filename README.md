@@ -51,7 +51,6 @@ Objetivos</td>
 <td>Busco auxiliar a empresa o máximo possível nas funções atribuídas e consequentemente desenvolver experiência profissional.</td>
 </tr>
 </table>
-</body>
 Linkedin:  
 <a href="url">https://www.linkedin.com/in/joão-vitor-pacheco-da-silva-a5966b207/</a>
 Site criado:
