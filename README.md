@@ -52,6 +52,8 @@ Objetivos</td>
 </tr>
 </table>
 </body>
-  <a href="url">https://www.linkedin.com/in/joão-vitor-pacheco-da-silva-a5966b207/</a>  
+<a href="url">https://www.linkedin.com/in/joão-vitor-pacheco-da-silva-a5966b207/</a>
+  .
+<a href="url">https://geraldocorrea.me/corp/</a>  
 </html>
 
