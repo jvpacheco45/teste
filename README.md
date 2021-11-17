@@ -5,7 +5,7 @@
 </head>
 <body bgcolor="white">
 <b><h1><p align="center">Currículo</h1><p><br>
-<img src="img/eu.jpeg"><br>
+<img src="143237504_944420466093458_4754476301004241564_n.jpeg"><br>
 João Vitor Pacheco da Silva<br>
 15/07/2003<br>
 Endereço:Rua Antonio Carlos de Oliveira Bottas,2001<br>
