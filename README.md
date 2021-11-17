@@ -33,6 +33,7 @@ Telefone:(17)98222-7108
 <tr>
 <td>Pacote Office</td>
 </tr>
+<a href="url">https://www.linkedin.com/in/jo%C3%A3o-vitor-pacheco-da-silva-a5966b207/</a>
 </table><br>
 <table border="1">
 <tr>
