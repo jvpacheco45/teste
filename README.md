@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Curriculum </title>
 </head>
 <body bgcolor="white">
 <b><h1><p align="center">Currículo</h1><p><br>
